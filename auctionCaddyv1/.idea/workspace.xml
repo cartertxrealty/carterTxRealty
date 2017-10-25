@@ -60,21 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/auctionCaddyv1/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1111">
-              <caret line="140" column="53" lean-forward="false" selection-start-line="140" selection-start-column="53" selection-end-line="140" selection-end-column="53" />
+            <state relative-caret-position="398">
+              <caret line="104" column="19" lean-forward="false" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,6 +96,7 @@
         <option value="$PROJECT_DIR$/auth/views.py" />
         <option value="$PROJECT_DIR$/auctionCaddyv1/urls.py" />
         <option value="$PROJECT_DIR$/.elasticbeanstalk/config.yml" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/auctionCaddyv1/settings.py" />
       </list>
     </option>
@@ -305,18 +306,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auctionCaddyv1/settings.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1111">
-          <caret line="140" column="53" lean-forward="false" selection-start-line="140" selection-start-column="53" selection-end-line="140" selection-end-column="53" />
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/auctionCaddyv1/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="398">
+          <caret line="104" column="19" lean-forward="false" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
           <folding />
         </state>
       </provider>

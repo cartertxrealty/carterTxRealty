@@ -81,14 +81,14 @@ WSGI_APPLICATION = 'auctionCaddyv1.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
-if 'RDS_DB_NAME' in os.environ:
+if 'aaqz76l58sxu93' in os.environ:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': os.environ['aaljvf3d3b1nql'],
+            'NAME': os.environ['aaqz76l58sxu93'],
             'USER': os.environ['ebroot'],
             'PASSWORD': os.environ['cartertxrealty'],
-            'HOST': os.environ['aaljvf3d3b1nql.cs8owkeowyfp.us-west-2.rds.amazonaws.com'],
+            'HOST': os.environ['aaqz76l58sxu93.cs8owkeowyfp.us-west-2.rds.amazonaws.com'],
             'PORT': os.environ['5432'],
         }
     }
