@@ -25,7 +25,7 @@ SECRET_KEY = '-_6)=e(up&#t@%j3w87rb#q*k3-7gy(oruo2qd71b29y-wa#+^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['auctioncaddy-env.mf3qn3ufuq.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
